@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "1ddcbb50d35d4ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea1a009f42ccdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4bef359cc9724c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1f47221c1ce2f502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-总览/软件/10-bat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf3fc51c2671bd52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-总览/建筑设计/J01-建筑施工图流程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "644e558bf1ddf2e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8240451827e4fd2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048cbc4c101694a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7c3ae4c9cb04b98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "浏览器",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d4bb82c95602986",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "64d45f051310e0df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a3305b72387785",
+        "type": "tabs",
+        "dimension": 27.692307692307693,
+        "children": [
+          {
+            "id": "bd8549daac323c0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d7cd325097b11c2",
+        "type": "tabs",
+        "dimension": 19.230769230769234,
+        "children": [
+          {
+            "id": "8f4f92afe50bb8b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-总览/建筑设计/J01-建筑施工图流程.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a0e0b80c73724f73",
+        "type": "tabs",
+        "dimension": 53.07692307692307,
+        "children": [
+          {
+            "id": "3c80f40c4c590059",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-总览/建筑设计/J01-建筑施工图流程.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee603c4a2012db40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-总览/建筑设计/J01-建筑施工图流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d0066afd95ebd02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "bf3fc51c2671bd52",
+  "lastOpenFiles": [
+    "README.md",
+    "inbox/未命名.md",
+    "规范图集/规范列表.md",
+    "inbox/111-直播源.md",
+    "000-总览/建筑设计/J01-建筑施工图流程.md",
+    "000-总览/建筑设计/00-建筑设计.md",
+    "home.md",
+    "搜索资料.md",
+    "软件教程/windows系统/系统安装流程.md",
+    "000-总览/软件/03-windows.md",
+    "000-总览/软件/00-软件总览.md",
+    "000-总览/软件/04-油猴插件.md",
+    "inbox/bat优秀例子.md",
+    "000-总览/软件/10-bat.md",
+    "000-总览/软件/09-git使用.md",
+    "SimpRead/11-批处理删除字符串 -批处理教程@annote.md",
+    "SimpRead/8-用 GitHub 搭建静态博客太繁琐？用这个小工具实现「傻瓜式」发布@annote.md",
+    "SimpRead/7-Git 基础 (常用命令) 介绍_git 命令_fengbingchun 的博客 - CSDN 博客@annote.md",
+    "000-总览/软件/08-科学上网.md",
+    "SimpRead/12-Rclone 使用教程 - 挂载 Onedrive 和谷歌网盘@annote.md",
+    "000-总览/代码块.md",
+    "000-总览/youxi.md",
+    "000-总览/sheji.md",
+    "000-总览/软件/s01-Obsidian-教程收集.md",
+    "SimpRead/10-Github 即日起不再支持基于密码的授权方式：Support for password authentication was removed on August 13_ 2021 - 蒲公英云@annote.md",
+    "SimpRead/9-Git Bash 的简单使用教程@annote.md",
+    "SimpRead",
+    "规范图集/fujian/Pasted image 20221118105223.png",
+    "附件文件/~$设计表格总表.xlsx",
+    "附件文件/腾讯QQ.lnk",
+    "附件文件/T20天正建筑V4.0.lnk",
+    "000-总览/软件",
+    "000-总览/建筑设计",
+    "000-总览",
+    "inbox",
+    "未命名.canvas",
+    "建筑设计",
+    "软件",
+    "规范图集/fujian/Pasted image 20221122091043.png",
+    "规范图集/fujian/Pasted image 20221122090853.png",
+    "规范图集/fujian/Pasted image 20221122080729.png",
+    "规范图集/fujian/Pasted image 20221122080711.png",
+    "规范图集/fujian/Pasted image 20221122080636.png",
+    "规范图集/fujian/Pasted image 20221122075520.png",
+    "规范图集/fujian/Pasted image 20221122075212.png",
+    "规范图集/fujian/Pasted image 20221122063633.png",
+    "规范图集/fujian/Pasted image 20221122074330.png",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}

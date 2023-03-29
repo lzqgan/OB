@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "attachmentFolderPath": "附件文件",
+  "defaultViewMode": "preview"
+}
